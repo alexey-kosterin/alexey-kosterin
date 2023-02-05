@@ -1,6 +1,4 @@
-### Hi there 👋
-My technology stack:
-
+### My technology stack:
 <a href="#"><img src="https://iili.io/H1Q0dcN.th.png" alt="H1Q0dcN.th.png" border="0"></a>
 <a href="#"><img src="https://iili.io/H1Q0nVf.th.png" alt="H1Q0nVf.th.png" border="0"></a>
 <a href="#"><img src="https://iili.io/H1Q1V14.th.png" alt="H1Q1V14.th.png" border="0"></a>
